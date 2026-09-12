@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5e6c8;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #7b2d26;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #8b4513;
+    margin-top: 25px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+input[type="radio"] {
+    margin: 8px;
+}
+
+button {
+    background-color: #7b2d26;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5a1f1b;
+}
